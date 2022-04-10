@@ -1,3 +1,5 @@
+// Objectivo, é construir uma função para gerar vários UUID(Universally unique identifier)
+
 function geradorUuid() {
     let ahora = new Date().getTime();
 
